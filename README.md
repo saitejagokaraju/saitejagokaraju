@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Saiteja</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
