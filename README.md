@@ -3,12 +3,6 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-<div>
-  <p>Follow Me on LinkedIn - <a href="https://www.linkedin.com/in/saitejagokaraju/" target="_blank" rel="noreferrer"> Click Here </a></p>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejagokaraju&label=Profile%20views&color=0e75b6&style=flat" alt="saitejagokaraju" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saitejagokaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saitejagokaraju" height="30" width="40" /></a>
